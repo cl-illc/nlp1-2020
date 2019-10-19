@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-10-31
+  date: 2018-10-29
   img: prac
   uid: practical1
   title: "Practical I"
@@ -12,73 +12,3 @@
   instructions: https://colab.research.google.com/drive/1ya44lt-fI8GnesnDqAX6oOd-cUMhSmXc 
   data:
   code:
--
-  layout: lecture
-  selected: y
-  date: 2018-11-16
-  img: prac
-  uid: intropytorch
-  title: "Introduction to PyTorch"
-  note: 
-  abstract: 
-  background:
-  discussion:
-  instructions: https://colab.research.google.com/drive/1RJ6ZkyACdIojrJlF2WhAB9VppwPXeDFD
-  data:
-  code:
--
-  layout: lecture
-  selected: y
-  date: 2018-11-16
-  img: prac
-  uid: intropytorch
-  title: "Practical II"
-  note: "see Data button for detailed report instructions"
-  abstract: 
-  background: 
-  discussion:
-  instructions: https://colab.research.google.com/drive/1Keld1qNfelnxaNS9WbbFfCJS99PPoAoA
-  data: assessment.html
-  code:
--
-  layout: lecture
-  selected: y
-  date: 2018-11-27
-  img: prac
-  uid: exercises
-  title: "Exercises: Part of speech tagging"
-  note: 
-  abstract: 
-  background:
-  discussion:
-  instructions: resources/practicals/PoS-tagging.pdf
-  data:
-  code:
--
-  layout: lecture
-  selected: y
-  date: 2018-11-27
-  img: prac
-  uid: exercises
-  title: "Exercises: Syntactic parsing"
-  note: 
-  abstract: 
-  background:
-  discussion:
-  instructions: resources/practicals/Parsing.pdf
-  data:
-  code:
--
-  layout: lecture
-  selected: y
-  date: 2018-11-27
-  img: prac
-  uid: exercises
-  title: "Exercises: Distributional semantics"
-  note: 
-  abstract: 
-  background:
-  discussion:
-  instructions: resources/practicals/Dist-Sem.pdf
-  data:
-  code: 
