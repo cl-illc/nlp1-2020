@@ -4,7 +4,7 @@ email: e.shutova@uva.nl
 description: > 
     Here you will find additional material for NLP1 offered at UvA.
 url: "https://cl-illc.github.io" # the base hostname & protocol for your site
-baseurl: "/nlp1" # the subpath of your site, e.g. /blog/
+baseurl: "/nlp1-2019" # the subpath of your site, e.g. /blog/
 github_username:  cl-illc
 #paginate: 3
 
