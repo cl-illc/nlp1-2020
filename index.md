@@ -55,13 +55,16 @@ The third edition of the book is currently in preparation and some of the chapte
 
 ## Assessment 
 
-- exam 50%,
-- practical (group work) 50%
+- exam 40%
+- practical 1 (group work) 20%
+- practical 2 (group work) 30%
+- pen-and-paper exercises 10%
 
 ## Deadlines
 
-- Practical I report: 23 November
-- Exercises: 7 December
-- Practical II report: 12 December
+- Practical 1 report: 13 November
+- Practical 2 report: 10 December
+- Exercises: throughout the course (see each excercise pdf for the respective deadline)
+- Exam: 17 December
 
 
