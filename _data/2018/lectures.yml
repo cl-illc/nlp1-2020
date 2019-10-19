@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-10-29
+  date: 2018-10-28
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction"
@@ -11,7 +11,7 @@
     "Introduction to the course"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture1.pdf
+  slides: 
   further: 
     - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
@@ -19,7 +19,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-01
+  date: 2018-10-30
   img: Morphology
   uid: lec2
   title: "Morphological processing"
@@ -29,7 +29,7 @@
     "In this lecture, we will discuss morphological processing"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture2.pdf
+  slides: 
   further: 
     - "Lecture notes are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
   code: 
@@ -37,7 +37,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-05
+  date: 2018-11-04
   img: PoS
   uid: lec3
   title: "Language models and part-of-speech tagging"
@@ -47,7 +47,7 @@
     "In this lecture, we will discuss language models, i.e. modelling word sequences, and part-of-speech tagging"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture3.pdf
+  slides: 
   further: 
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
@@ -56,7 +56,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-08
+  date: 2018-11-06
   img: Parsing
   uid: lec4
   title: "Formal grammars and syntactic parsing"
@@ -66,7 +66,7 @@
     "In this lecture, we will discuss syntax and syntactic parsing"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture4.pdf
+  slides: 
   further: 
     - "Chapter 10: [Formal grammars of English](https://web.stanford.edu/~jurafsky/slp3/10.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 11: [Syntactic parsing](https://web.stanford.edu/~jurafsky/slp3/11.pdf) in Jurafsky and Martin (3rd edition)."
@@ -75,7 +75,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-12
+  date: 2018-11-11
   img: vectors
   uid: lec5
   title: "Lexical and distributional semantics"
@@ -85,7 +85,7 @@
     "In this lecture, we will discuss lexical semantics, i.e. modelling the meaning of words, and will introduce statistical models of word meaning"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture5.pdf
+  slides: 
   further: 
     - "Appendix Chapter C: [Computing with Word Senses: WSD and WordNet](https://web.stanford.edu/~jurafsky/slp3/C.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
@@ -94,7 +94,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-15
+  date: 2018-11-13
   img: skip-gram
   uid: lec6
   title: "Distributional semantics, generalisation and word embeddings"
@@ -104,27 +104,27 @@
     "In this lecture, we will discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture6.pdf
+  slides: 
   further: 
     - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/d85ac497a6054dfb8982713d029abb211d
+  video: 
   code: 
   data:    
 -
   layout: lecture
   selected: y
-  date: 2018-11-19
+  date: 2018-11-18
   img: srn
   uid: lec7
-  title: "Word embeddings and sentence representations"
-  instructor: "Ekaterina Shutova and Joost Bastings"
+  title: "Compositional semantics and sentence representations"
+  instructor: "Ekaterina Shutova and Sandro Pezzelle"
   note: 
   abstract: >
-    "In this lecture, we will discuss methods for learning dense word embeddings and compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
+    "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture7.pdf
+  slides: 
   further: 
     - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition) has a section on word embeddings."
     - "Chapter 7: [Neural networks and neural language models](https://web.stanford.edu/~jurafsky/slp3/7.pdf) in Jurafsky and Martin (3rd edition)."
@@ -132,145 +132,28 @@
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
     - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing
 ](https://arxiv.org/abs/1510.00726)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/90f9539bcc17469a817d3e09ad7546a91d
+  video: 
   code: 
   data:    
 -
   layout: lecture
   selected: y
-  date: 2018-11-26
+  date: 2018-11-25
   img: Discourse
   uid: lec8
-  title: "Compositional semantics (continued). Discourse processing"
+  title: "Discourse processing"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
     "In this lecture, we will finish our discussion of compositional semantics and then talk about discourse processing, i.e. modelling larger text fragments."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture8.pdf
+  slides: 
   further: 
     - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
-  video: https://webcolleges.uva.nl/Mediasite/Play/2af6f62c7a94499b99facda2cefaccf61d
-  code: 
-  data:  
--
-  layout: lecture
-  selected: y
-  date: 2018-11-29
-  img: paraphrase
-  uid: lec9
-  title: "Textual entailment and paraphrasing"
-  instructor: "Guest lecture by Miguel Rios"
-  note: 
-  abstract: >
-    "In this lecture, we will discuss modelling textual entailment and paraphrasing methods."
-  background:
-  discussion:
-  slides: resources/slides/NLP1-lecture9.pdf
-  further: 
-    - "[A Survey of Paraphrasing and Textual Entailment Methods](https://arxiv.org/pdf/0912.3747.pdf) (Sections 1 and 2)"
-    - "[A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf)"
-    - "[Annotation Artifacts in Natural Language Inference Data](http://aclweb.org/anthology/N18-2017)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/5f728f76bbec4fde97c84457ba94cdd31d
-  code: 
-  data:  
--
-  layout: lecture
-  selected: y
-  date: 2018-12-03
-  img: dialogue
-  uid: lec10
-  title: "Dialogue modelling"
-  instructor: "Guest lecture by Raquel Fernandez and Elia Bruni"
-  note: 
-  abstract: >
-    "In this lecture, we will discuss dialogue modelling and dialogue systems."
-  background:
-  discussion:
-  slides: resources/slides/NLP1-lecture10.pdf
-  further: 
-    - "Elia Bruni's slides are available [here](https://drive.google.com/file/d/1peqgNx0A_JQbdGDeDDsdjApcbVU8rbfl/view?usp=sharing)"
-    - "Chapter 24 of Jurafsky & Martin (3rd edition): [Dialog Systems and Chatbots](https://web.stanford.edu/~jurafsky/slp3/24.pdf)"
-    - "Chapter 25 of J&M (3rd ed): [Advanced Dialog Systems](https://web.stanford.edu/~jurafsky/slp3/25.pdf)"
-    - "[A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://breakend.github.io/DialogDatasets/)"
-    - "Section 2 of [this paper](https://arxiv.org/pdf/1512.05742.pdf) offers a concise overview of data-driven dialogue systems"
-    - "[Tutorial on Deep Learning for Dialogue Systems at COLING 2018](https://sites.google.com/view/deepdial/)"
-    - "[GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481)"
-    - "[Visual Dialog](https://arxiv.org/abs/1611.08669)"
-  code:
-  video: https://webcolleges.uva.nl/Mediasite/Play/2dbad73345bb4facbf3a132691df06001d
-  data:  
--
-  layout: lecture
-  selected: y
-  date: 2018-12-06
-  img: Discourse
-  uid: lec11
-  title: "Language generation and summarisation"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: >
-    "In this lecture, we will talk about language generation and cover a particular language generation task, text summarisation, in more detail."
-  background:
-  discussion:
-  slides: resources/slides/NLP1-lecture11.pdf
-  further: 
-    - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
-    - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/5e8d240077ed433ab05302f99d21e86f1d
-  code: 
-  data:  
--
-  layout: lecture
-  selected: y
-  date: 2018-12-10
-  img: MT
-  uid: lec12
-  title: "Machine translation"
-  instructor: "Joost Bastings"
-  note: 
-  abstract: >
-    "We will discuss the fundamentals of machine translation, incl. word-based / alignment models and phrase-based SMT"
-  background:
-    - "[Explanation of IBM models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)"
-  discussion:
-  slides: resources/slides/NLP1-lecture12.pdf
-  further: 
-    - "Optional readings"
-    - "[Word based IBM models](http://www.aclweb.org/anthology/J93-2003)"
-    - "[Phrase-based SMT](http://www.aclweb.org/anthology/N03-1017) and this [book](http://www.statmt.org/book/)"
-    - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-    - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/6795feb2e66c45f0979531db6b1625941d
-  code: https://github.com/joeynmt/joeynmt
-  data:  
--
-  layout: lecture
-  selected: y
-  date: 2018-12-13
-  img: bayes-nlp
-  uid: lec13
-  title: "Foundations of Bayesian NLP"
-  instructor: "Guest lecture by Wilker Aziz"
-  note: 
-  abstract: |
-      In this lecture, we will discuss the differences between frequentism and Bayesian modelling. We will discuss the concept of a prior and Bayesian inference. The model we will use to illustrate concepts is the Dirichlet-Multinomial model, the base for models such as Bayesian mixture models, HMM, and LDA. For approximate inference, we will discuss MCMC and in particular Gibbs sampling.
-
-        Shameless advertisement:
-            * To learn more about latent variable models in NLP (unsupervised and semi-supervised learning), take NLP2.
-            * To learn more about Bayesian modelling in NLP, especially in the context of deep learning, take Machine Learning for NLP ;)
-  background:
-  discussion:
-  slides: resources/slides/NLP1-lecture13.pdf
-  further: |
-      * For a POS tagging model: [A Fully Bayesian Approach to Unsupervised Part-of-Speech Tagging](http://aclweb.org/anthology/P07-1094) 
-      * For a PCFG model: [Bayesian Inference for PCFGs via Markov chain Monte Carlo](http://aclweb.org/anthology/N07-1018)
-      * A very special type of mixture model: [Bayesian Word Alignment for Statistical Machine Translation](http://aclweb.org/anthology/P11-2032)
-      * The classict of all times: [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
-        * This paper focusses on a different type of approximate inference technique (not MCMC, but rather variational inference), in ML4NLP we cover it in great detail (in particular, this is the class of algorithms we use to do probabilistic modelling with neural networks)
-      * If you are interested in Bayesian non-parametric methods for NLP, check Sharon Goldwater's [thesis](https://homepages.inf.ed.ac.uk/sgwater/papers/thesis_1spc.pdf), it's remarkably well written and clear!
   video: 
   code: 
   data:  
+-
+  
