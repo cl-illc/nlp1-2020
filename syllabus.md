@@ -4,7 +4,6 @@ title: Syllabus
 menu: yes
 ---
 
-*NLP1 2018*
 
 
 # Lectures
