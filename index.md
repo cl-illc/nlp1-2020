@@ -8,9 +8,8 @@ Course coordinator: [Ekaterina Shutova](http://www.cl.cam.ac.uk/~es407/)
 
 Lab coordinator: [Sandro Pezzelle](https://sandropezzelle.github.io/)
 
-Assistant lecturer: [Reshmi Gopalakrishna Pillai](mailto:reshmi.g85@gmail.com)
-
-Teaching assistants: 
+Teaching assistants:
+- [Reshmi Gopalakrishna Pillai](mailto:reshmi.g85@gmail.com) (Senior TA)
 - [Mario Giulianelli](mailto:m.giulianelli@uva.nl)
 - [Rishav Hada](mailto:rishavhada@gmail.com)
 - [Sohi Soudhir](mailto:sohigre@gmail.com)
