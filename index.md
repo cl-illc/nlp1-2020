@@ -8,16 +8,17 @@ Course coordinator: [Ekaterina Shutova](http://www.cl.cam.ac.uk/~es407/)
 
 Lab coordinator: [Sandro Pezzelle](https://sandropezzelle.github.io/)
 
+Assistant lecturer: [Reshmi Gopalakrishna Pillai](mailto:reshmi.g85@gmail.com)
+
 Teaching assistants: 
-- [Samira Abnar](https://staff.fnwi.uva.nl/s.abnar/) (Senior TA)
-- [Daniel Daza Cruz](mailto:dfdazac@gmail.com)
-- [Florian Mohnert](mailto:florian.mohnert@student.uva.nl)
+- [Mario Giulianelli](mailto:m.giulianelli@uva.nl)
+- [Rishav Hada](mailto:rishavhada@gmail.com)
+- [Sohi Soudhir](mailto:sohigre@gmail.com)
+- [Shantanu Chandra](mailto:shanchandra93@yahoo.in)
+- [Phillip Lippe](mailto:phillip.lippe@googlemail.com)
 - [Jaap Jumelet](mailto:jumeletjaap@gmail.com)
-- [Jack Harding](mailto:jackhardingwork@gmail.com)
-- [Laura Ruis](mailto:l.e.ruis@uva.nl)
-- [Mario Giulianelli](mailto:mario.giulianelli@student.uva.nl)
-- [Mathijs Mul](mailto:mathijsmul@gmail.com)
-- [Victor Milewski](mailto:victormilewski@gmail.com)
+- [Pere-Lluis Huguet Cabot](mailto:perelluis1993@gmail.com)
+
 
 ## Course registration
 
