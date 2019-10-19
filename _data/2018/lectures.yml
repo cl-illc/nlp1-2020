@@ -97,7 +97,7 @@
   date: 2018-11-13
   img: skip-gram
   uid: lec6
-  title: "Distributional semantics, generalisation and word embeddings"
+  title: "Distributional semantics and word embeddings"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
@@ -118,7 +118,7 @@
   img: srn
   uid: lec7
   title: "Compositional semantics and sentence representations"
-  instructor: "Ekaterina Shutova and Sandro Pezzelle"
+  instructor: "Sandro Pezzelle"
   note: 
   abstract: >
     "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
