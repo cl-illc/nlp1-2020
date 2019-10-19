@@ -6,7 +6,7 @@ This is the page of the course *Natural Language Processing 1* offered at the [U
 
 Course coordinator: [Ekaterina Shutova](http://www.cl.cam.ac.uk/~es407/)
 
-Lab coordinator: [Joost Bastings](https://bastings.github.io)
+Lab coordinator: [Sandro Pezzelle](https://sandropezzelle.github.io/)
 
 Teaching assistants: 
 - [Samira Abnar](https://staff.fnwi.uva.nl/s.abnar/) (Senior TA)
