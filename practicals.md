@@ -3,7 +3,7 @@ layout: photolist
 title: Practicals
 menu: true
 ---
-*Autumn 2018*
+
 
 # Practicals
 
