@@ -37,13 +37,13 @@ The lectures will cover the following topics:
 - Lexical and distributional semantics
 - Neural language models and word embeddings 
 - Compositional semantics and sentence representations 
-- Discourse processing
-- Entailment and paraphrasing 
+- Discourse processing 
 - Dialogue modelling 
-- Summarization and question answering
-- Probabilistic modelling for NLP
+- Language generation and summarization
 - Machine translation
-- Some examples of recent NLP research
+- NLP and social media analysis
+- Bayesian methods in NLP
+
 
 An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews.
 
