@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-10-29
+  date: 2019-11-13
   img: prac
   uid: practical1
   title: "Practical I"
@@ -15,7 +15,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-16
+  date: 
   img: prac
   uid: intropytorch
   title: "Introduction to PyTorch"
@@ -29,7 +29,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-11-16
+  date: 2019-12-10
   img: prac
   uid: intropytorch
   title: "Practical II"
