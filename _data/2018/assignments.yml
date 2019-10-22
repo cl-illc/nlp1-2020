@@ -9,6 +9,34 @@
   abstract: 
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/1ya44lt-fI8GnesnDqAX6oOd-cUMhSmXc 
+  instructions: https://colab.research.google.com/drive/126UXWFEzfLHd3BwBJYBKgrUhgcYocOTx
   data:
+  code:
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-16
+  img: prac
+  uid: intropytorch
+  title: "Introduction to PyTorch"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: https://colab.research.google.com/drive/1NGGXGnX7FbdlJ80GYSX2MwaNMXQ_SW0Z
+  data:
+  code:
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-16
+  img: prac
+  uid: intropytorch
+  title: "Practical II"
+  note: "see Data button for detailed report instructions"
+  abstract: 
+  background: 
+  discussion:
+  instructions: https://colab.research.google.com/drive/16UKIbqdvns3Y7IST2GPFq4eZswQG088V
+  data: assessment.html
   code:
