@@ -26,17 +26,4 @@
   instructions: https://colab.research.google.com/drive/1NGGXGnX7FbdlJ80GYSX2MwaNMXQ_SW0Z
   data:
   code:
--
-  layout: lecture
-  selected: y
-  date: 2019-11-13
-  img: prac
-  uid: intropytorch
-  title: "Practical II"
-  note: "see Data button for detailed report instructions"
-  abstract: 
-  background: 
-  discussion:
-  instructions: https://colab.research.google.com/drive/16UKIbqdvns3Y7IST2GPFq4eZswQG088V
-  data: assessment.html
-  code:
+
