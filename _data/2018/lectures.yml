@@ -17,3 +17,22 @@
     - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data: 
+-
+  layout: lecture
+  selected: y
+  date: 2018-10-30
+  img: PoS
+  uid: lec3
+  title: "Language models and part-of-speech tagging"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss language models, i.e. modelling word sequences, and part-of-speech tagging"
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:  
