@@ -22,7 +22,7 @@
   selected: y
   date: 2018-10-30
   img: PoS
-  uid: lec3
+  uid: lec2
   title: "Language models and part-of-speech tagging"
   instructor: "Ekaterina Shutova"
   note: 
@@ -35,5 +35,123 @@
   further: 
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-04
+  img: Morphology
+  uid: lec3
+  title: "Modelling structure: morphology and syntax"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss morphological processing and syntactic parsing"
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Lecture notes on moprphology are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
+    - "Chapter 10: [Formal grammars of English](https://web.stanford.edu/~jurafsky/slp3/10.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 11: [Syntactic parsing](https://web.stanford.edu/~jurafsky/slp3/11.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data: 
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-06
+  img: Parsing
+  uid: lec4
+  title: "Lexical semantics"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss lexical semantics, i.e. modelling the meaning of words."
+  background:
+  discussion:
+  slides: 
+  further: 
+     - "Appendix Chapter C: [Computing with Word Senses: WSD and WordNet](https://web.stanford.edu/~jurafsky/slp3/C.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:    
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-11
+  img: vectors
+  uid: lec5
+  title: "Distributional semantics"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will introduce statistical models of word meaning"
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-13
+  img: skip-gram
+  uid: lec6
+  title: "Generalisation and word embeddings"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Chapter 6: [Vector semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
+    - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
+    - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
+  video: 
+  code: 
+  data:    
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-18
+  img: srn
+  uid: lec7
+  title: "Compositional semantics and sentence representations"
+  instructor: "Sandro Pezzelle"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "Chapter 7: [Neural networks and neural language models](https://web.stanford.edu/~jurafsky/slp3/7.pdf) in Jurafsky and Martin (3rd edition)."
+    - "Chapter 9: [Sequence processing with recurrent neural networks](https://web.stanford.edu/~jurafsky/slp3/9.pdf) in Jurafsky and Martin (3rd edition)."
+    - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)"
+    - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
+    - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
+  video: 
+  code: 
+  data:    
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-25
+  img: Discourse
+  uid: lec8
+  title: "Discourse processing"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will discuss discourse processing, i.e. modelling larger text fragments."
+  background:
+  discussion:
+  slides: 
+  further: 
+  video: 
   code: 
   data:  
