@@ -51,6 +51,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture3.pdf
+  video: https://webcolleges.uva.nl/Mediasite/Play/12a2f5e976f541c89836bedbab3956721d
   further: 
     - "Lecture notes on moprphology are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
     - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
