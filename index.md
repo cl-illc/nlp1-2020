@@ -12,7 +12,7 @@ Teaching assistants:
 - [Reshmi Gopalakrishna Pillai](mailto:reshmi.g85@gmail.com) (Senior TA)
 - [Mario Giulianelli](mailto:m.giulianelli@uva.nl)
 - [Rishav Hada](mailto:rishavhada@gmail.com)
-- [Sohi Soudhir](mailto:sohigre@gmail.com)
+- [Sohi Sudhir](mailto:sohigre@gmail.com)
 - [Shantanu Chandra](mailto:shanchandra93@yahoo.in)
 - [Phillip Lippe](mailto:phillip.lippe@googlemail.com)
 - [Jaap Jumelet](mailto:jumeletjaap@gmail.com)
