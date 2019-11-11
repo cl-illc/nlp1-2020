@@ -90,7 +90,8 @@
     "In this lecture, we will introduce statistical models of word meaning"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture5.pdf
+  video: https://webcolleges.uva.nl/Mediasite/Play/6cc05797d7b34625991d4de70341a33f1d
   further: 
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
