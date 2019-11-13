@@ -110,7 +110,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture6.pdf
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/96bd1e2f1c5e4f409593ee412338048b1d
   further: 
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
