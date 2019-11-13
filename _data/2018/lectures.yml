@@ -159,3 +159,21 @@
   video: 
   code: 
   data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-11-27
+  img: Discourse
+  uid: lec9
+  title: "Two guest lectures: NLP and human language processing & Dialogue modelling"
+  instructor: "Jelle Zuidema and Raquel Fernandez"
+  note: 
+  abstract: >
+    "In these two guest lectures, we will discuss the relationship between some NLP techniques and human sentence processing, and then introduce an important NLP application -- dialogue modelling."
+  background:
+  discussion:
+  slides: 
+  further: 
+  video: 
+  code: 
+  data:    
