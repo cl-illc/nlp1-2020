@@ -163,7 +163,7 @@
   layout: lecture
   selected: y
   date: 2018-11-27
-  img: Discourse
+  img: dialogue
   uid: lec9
   title: "Two guest lectures: NLP and human language processing & Dialogue modelling"
   instructor: "Jelle Zuidema and Raquel Fernandez"
@@ -177,3 +177,47 @@
   video: 
   code: 
   data:    
+-
+  layout: lecture
+  selected: y
+  date: 2018-12-02
+  img: Discourse
+  uid: lec10
+  title: "Language generation and summarisation"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this lecture, we will talk about language generation and cover a particular language generation task, text summarisation, in more detail."
+  background:
+  discussion:
+  slides: 
+  further: 
+    - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
+    - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
+  video: 
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-12-04
+  img: MT
+  uid: lec11
+  title: "Machine translation"
+  instructor: "Reshmi Gopalakrishna Pillai"
+  note: 
+  abstract: >
+    "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
+  background:
+    - "[Explanation of IBM models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)"
+  discussion:
+  slides: 
+  further: 
+    - "Optional readings"
+    - "[Word based IBM models](http://www.aclweb.org/anthology/J93-2003)"
+    - "[Phrase-based SMT](http://www.aclweb.org/anthology/N03-1017) and this [book](http://www.statmt.org/book/)"
+    - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
+    - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
+  video: 
+  code: 
+  data:  
