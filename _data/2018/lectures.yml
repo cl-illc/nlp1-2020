@@ -174,7 +174,8 @@
   background:
   discussion:
   slides: 
-  further: 
+  further:
+    - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
   video: 
   code: 
   data:    
