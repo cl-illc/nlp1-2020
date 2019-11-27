@@ -173,7 +173,7 @@
     "In these two guest lectures, we will discuss the relationship between some NLP techniques and human sentence processing, and then introduce an important NLP application -- dialogue modelling."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture9.pdf
   further:
     - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
   video: 
