@@ -222,3 +222,45 @@
   video: 
   code: 
   data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-12-09
+  img: MT
+  uid: lec12
+  title: "NLP and social media analysis"
+  instructor: "Reshmi Gopalakrishna Pillai"
+  note: 
+  abstract: >
+    "We will discuss the applications of NLP in the area of social media analysis and the challenges associated with processing the language of social media."
+  background:
+  discussion:
+  slides: 
+  further: 
+  video: 
+  code: 
+  data:    
+-
+  layout: lecture
+  selected: y
+  date: 2018-12-11
+  img: bayes-nlp
+  uid: lec13
+  title: "Foundations of Bayesian NLP"
+  instructor: "Guest lecture by Wilker Aziz"
+  note: 
+  abstract: |
+      In this lecture, we will discuss the differences between frequentism and Bayesian modelling. We will discuss the concept of a prior and Bayesian inference. The model we will use to illustrate concepts is the Dirichlet-Multinomial model, the base for models such as Bayesian mixture models, HMM, and LDA. For approximate inference, we will discuss MCMC and in particular Gibbs sampling.
+  background:
+  discussion:
+  slides: 
+  further: |
+      * For a POS tagging model: [A Fully Bayesian Approach to Unsupervised Part-of-Speech Tagging](http://aclweb.org/anthology/P07-1094) 
+      * For a PCFG model: [Bayesian Inference for PCFGs via Markov chain Monte Carlo](http://aclweb.org/anthology/N07-1018)
+      * A very special type of mixture model: [Bayesian Word Alignment for Statistical Machine Translation](http://aclweb.org/anthology/P11-2032)
+      * The classict of all times: [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+        * This paper focusses on a different type of approximate inference technique (not MCMC, but rather variational inference), in ML4NLP we cover it in great detail (in particular, this is the class of algorithms we use to do probabilistic modelling with neural networks)
+      * If you are interested in Bayesian non-parametric methods for NLP, check Sharon Goldwater's [thesis](https://homepages.inf.ed.ac.uk/sgwater/papers/thesis_1spc.pdf), it's remarkably well written and clear!
+  video: 
+  code: 
+  data:  
