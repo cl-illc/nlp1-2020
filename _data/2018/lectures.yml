@@ -212,7 +212,7 @@
     "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture11.pdf
   further: 
     - "[Explanation of IBM models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)"
     - "[Word based IBM models](http://www.aclweb.org/anthology/J93-2003)"
