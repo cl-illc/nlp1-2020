@@ -235,9 +235,9 @@
     "We will discuss the applications of NLP in the area of social media analysis and the challenges associated with processing the language of social media."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture12.pdf
   further: 
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/5ba30467815743a8a4fc7a29cdba88cd1d
   code: 
   data:    
 -
