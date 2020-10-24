@@ -30,8 +30,8 @@
     "In this lecture, we will discuss language models, i.e. modelling word sequences, and part-of-speech tagging"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture2.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/bd089a21b2674d21816e39c3c125001f1d
+  slides: 
+  video: 
   further: 
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
@@ -68,8 +68,8 @@
     "In this lecture, we will discuss morphological processing and syntactic parsing"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture3.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/12a2f5e976f541c89836bedbab3956721d
+  slides: 
+  video: 
   further: 
     - "Lecture notes on moprphology are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
     - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
@@ -144,8 +144,8 @@
     "In this lecture, we will introduce statistical models of word meaning"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture5.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/6cc05797d7b34625991d4de70341a33f1d
+  slides: 
+  video: 
   further: 
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
@@ -163,12 +163,12 @@
     "In this lecture, we will discuss generalisation from words to semantic classes and learning dense vector representations - word embeddings."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture6.pdf
+  slides: 
   further: 
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
     - "A gentle introduction to neural networks can be found [here](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/)"
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/96bd1e2f1c5e4f409593ee412338048b1d
+  video: 
   code: 
   data:   
 -
@@ -184,14 +184,14 @@
     "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture7.pdf
+  slides: 
   further: 
     - "Chapter 7: [Neural networks and neural language models](https://web.stanford.edu/~jurafsky/slp3/7.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 9: [Sequence processing with recurrent neural networks](https://web.stanford.edu/~jurafsky/slp3/9.pdf) in Jurafsky and Martin (3rd edition)."
     - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)"
     - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
-  video: https://webcolleges.uva.nl/Mediasite/Play/2dadec3b16e0443b9090cd70b19595ec1d
+  video: 
   code: 
   data: 
 -  
@@ -225,11 +225,11 @@
     "In this lecture, we will discuss discourse processing, i.e. modelling larger text fragments."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture8.pdf
+  slides: 
   further: 
     - "Chapter 22: [Coreference resolution](https://web.stanford.edu/~jurafsky/slp3/22.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 23: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)." 
-  video: https://webcolleges.uva.nl/Mediasite/Play/f3b9d0da6cb944ecbeb7a736340b7d981d
+  video: 
   code: 
   data:  
 -
@@ -245,16 +245,16 @@
     "In this guest lecture, we will introduce an important NLP application -- dialogue modelling."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture9.pdf
+  slides: 
   further:
     - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
-  video: https://webcolleges.uva.nl/Mediasite/Play/640efe55482647188f888d4d337a80d51d
+  video:
   code: 
   data:    
 -  
   layout: lecture
   selected: y
-  date: 2020-11-25
+  date: 2020-12-02
   img: LiveQA
   uid: qa2
   title: "Live Q & A: Discourse and dialogue"
@@ -282,11 +282,11 @@
     "In this lecture, we will talk about language generation and cover a particular language generation task, text summarisation, in more detail."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture10.pdf
+  slides: 
   further: 
     - "A survey of recent summarisation techniques is available [here](https://arxiv.org/pdf/1804.04589.pdf)"
     - "An introduction to sequence-to-sequence models: [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/54d99bd9dcdd476a8b3543ecfc6110cc1d
+  video: 
   code: 
   data:  
 -
@@ -302,14 +302,14 @@
     "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture11.pdf
+  slides: 
   further: 
     - "[Explanation of IBM models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)"
     - "[Word based IBM models](http://www.aclweb.org/anthology/J93-2003)"
     - "[Phrase-based SMT](http://www.aclweb.org/anthology/N03-1017) and this [book](http://www.statmt.org/book/)"
     - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
     - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
-  video: https://webcolleges.uva.nl/Mediasite/Play/30452f7769b84d0fba0b603ea7ea396c1d
+  video: 
   code: 
   data:  
 -  
