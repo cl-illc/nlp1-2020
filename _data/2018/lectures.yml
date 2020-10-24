@@ -238,11 +238,11 @@
   date: 2018-11-27
   img: Mitchell-et-al
   uid: lec9
-  title: "Two guest lectures: NLP and human language processing & Dialogue modelling"
-  instructor: "Jelle Zuidema and Raquel Fernandez"
+  title: "Dialogue modelling"
+  instructor: "Recorded lecture by Raquel Fernandez"
   note: 
   abstract: >
-    "In these two guest lectures, we will discuss the relationship between some NLP techniques and human sentence processing, and then introduce an important NLP application -- dialogue modelling."
+    "In this guest lecture, we will introduce an important NLP application -- dialogue modelling."
   background:
   discussion:
   slides: resources/slides/NLP1-lecture9.pdf
@@ -251,6 +251,24 @@
   video: https://webcolleges.uva.nl/Mediasite/Play/640efe55482647188f888d4d337a80d51d
   code: 
   data:    
+-  
+  layout: lecture
+  selected: y
+  date: 2020-11-25
+  img: LiveQA
+  uid: qa2
+  title: "Live Q & A: Discourse and dialogue"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this Q & A session, we will discuss modelling discourse and dialogue."
+  background:
+  discussion:
+  slides: 
+  video: 
+  further:   
+  code: 
+  data:  
 -
   layout: lecture
   selected: y
@@ -278,7 +296,7 @@
   img: MT
   uid: lec11
   title: "Machine translation"
-  instructor: "Reshmi Gopalakrishna Pillai"
+  instructor: "Recorded lecture"
   note: 
   abstract: >
     "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
@@ -294,22 +312,22 @@
   video: https://webcolleges.uva.nl/Mediasite/Play/30452f7769b84d0fba0b603ea7ea396c1d
   code: 
   data:  
--
+-  
   layout: lecture
   selected: y
-  date: 2018-12-09
-  img: Twitter
-  uid: lec12
-  title: "NLP and social media analysis"
-  instructor: "Reshmi Gopalakrishna Pillai"
+  date: 2020-12-09
+  img: LiveQA
+  uid: qa2
+  title: "Live Q & A: Summarisation and machine translation"
+  instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-    "We will discuss the applications of NLP in the area of social media analysis and the challenges associated with processing the language of social media."
+    "In this Q & A session, we will discuss summarization and machine translation."
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture12.pdf
-  further: 
-  video: https://webcolleges.uva.nl/Mediasite/Play/5ba30467815743a8a4fc7a29cdba88cd1d
+  slides: 
+  video: 
+  further:   
   code: 
   data:    
 -
@@ -336,3 +354,21 @@
   video: https://webcolleges.uva.nl/Mediasite/Play/e0d365e80e8b4756b66f68a74d3b77771d
   code: 
   data:  
+-  
+  layout: lecture
+  selected: y
+  date: 2020-12-09
+  img: LiveQA
+  uid: qa2
+  title: "Live Q & A: Bayesian NLP"
+  instructor: "Wilker Aziz"
+  note: 
+  abstract: >
+    "In this Q & A session, we will discuss Bayesian NLP."
+  background:
+  discussion:
+  slides: 
+  video: 
+  further:   
+  code: 
+  data:
