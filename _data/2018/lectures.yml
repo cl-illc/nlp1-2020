@@ -1,18 +1,18 @@
 -
   layout: lecture
   selected: y
-  date: 2018-10-28
+  date: 2020-10-28
   img: introduction-icon_1-267x300
   uid: intro
-  title: "Introduction"
+  title: "Live Lecture: Introduction"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
     "Introduction to the course"
   background:
   discussion:
-  slides: resources/slides/NLP1-lecture1.pdf
-  video: https://webcolleges.uva.nl/Mediasite/Play/2b7ee0de251e407bb8361d1a3d4a02d61d
+  slides: 
+  video: 
   further: 
     - "Chapter 4: [Naive Bayes classification and sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
@@ -20,11 +20,11 @@
 -
   layout: lecture
   selected: y
-  date: 2018-10-30
+  date: Week 1
   img: PoS
   uid: lec2
   title: "Language models and part-of-speech tagging"
-  instructor: "Ekaterina Shutova"
+  instructor: "Recorded lecture"
   note: 
   abstract: >
     "In this lecture, we will discuss language models, i.e. modelling word sequences, and part-of-speech tagging"
