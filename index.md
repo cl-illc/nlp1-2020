@@ -4,24 +4,28 @@ layout: main
 
 This is the page of the course *Natural Language Processing 1* offered at the [University of Amsterdam](http://www.uva.nl/)
 
-Course coordinator: [Ekaterina Shutova](http://www.cl.cam.ac.uk/~es407/)
+Course coordinator: [Ekaterina Shutova](https://www.shutova.org/)
 
-Lab coordinator: [Sandro Pezzelle](https://sandropezzelle.github.io/)
+Lab coordinator: [Mario Giulianelli](http://gmario.eu/)
+
+Senior teaching assistant: [Christos Athanasiadis](mailto:c.athanasiadis@uva.nl)
 
 Teaching assistants:
-- [Reshmi Gopalakrishna Pillai](mailto:reshmi.g85@gmail.com) (Senior TA)
-- [Mario Giulianelli](mailto:m.giulianelli@uva.nl)
-- [Rishav Hada](mailto:rishavhada@gmail.com)
-- [Sohi Sudhir](mailto:sohigre@gmail.com)
-- [Shantanu Chandra](mailto:shanchandra93@yahoo.in)
-- [Phillip Lippe](mailto:phillip.lippe@googlemail.com)
+- [Ece Takmaz](mailto:e.k.takmaz@uva.nl)
 - [Jaap Jumelet](mailto:jumeletjaap@gmail.com)
-- [Pere-Lluis Huguet Cabot](mailto:perelluis1993@gmail.com)
+- [Christoph Hönes](mailto:christoph.hoenes@googlemail.com)
+- [Tamara Czinczoll](mailto:t.czinczoll@gmail.com)
+- [Massimo Spaconi](mailto:massimo.spaconi@gmail.com)
+- [Oliviero Nardi](mailto:olivieronardi@gmail.com)
+- [Omar Elbaghdadi](mailto:omarelb@gmail.com)
+- [Anna Langedijk](mailto:annalangedijk@gmail.com)
+- [Hannah Lim](mailto:hannahlim.lim@student.uva.nl)
+
 
 
 ## Course registration
 
-If you would like to register for this course, please email the student administrator [Liza Lambert](mailto:l.lambert@uva.nl). Liza will let you know whether you are eligible to register and help with the registration.
+The course is now closed for registration.
 
 ## Content
 
@@ -55,16 +59,16 @@ The third edition of the book is currently in preparation and some of the chapte
 
 ## Assessment 
 
-- exam 40%
+- exam 30%
 - practical 1 (group work) 20%
 - practical 2 (group work) 30%
-- pen-and-paper exercises 10%
+- pen-and-paper exercises 20%
 
 ## Deadlines
 
 - Practical 1 report: 13 November
-- Practical 2 report: 10 December
-- Exercises: throughout the course (see each excercise pdf for the respective deadline)
-- Exam: 17 December
+- Practical 2 report: 11 December
+- Exercises: throughout the course (see each excercise sheet for the respective deadline)
+- Exam: 18 December
 
 
