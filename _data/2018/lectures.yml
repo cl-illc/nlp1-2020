@@ -116,7 +116,7 @@
   layout: lecture
   selected: y
   date: Week 3
-  img: LexSem
+  img: WordNet
   uid: lec4
   title: "Lexical semantics"
   instructor: "Recorded lecture"
@@ -236,7 +236,7 @@
   layout: lecture
   selected: y
   date: Week 5
-  img: Mitchell-et-al
+  img: dialogue
   uid: lec9
   title: "Dialogue modelling"
   instructor: "Recorded lecture by Raquel Fernandez"
