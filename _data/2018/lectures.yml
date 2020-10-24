@@ -36,7 +36,25 @@
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
-  data:  
+  data:
+-  
+  layout: lecture
+  selected: y
+  date: 2020-11-04
+  img: LiveQA
+  uid: qa2
+  title: "Live Q & A: Language models and part-of-speech tagging"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this Q & A session, we will discuss language models and part-of-speech tagging."
+  background:
+  discussion:
+  slides: 
+  video: 
+  further:   
+  code: 
+  data:     
 -
   layout: lecture
   selected: y
@@ -152,15 +170,15 @@
     - "The following paper provides a nice explanation of skip-gram with negative sampling: Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
   video: https://webcolleges.uva.nl/Mediasite/Play/96bd1e2f1c5e4f409593ee412338048b1d
   code: 
-  data:    
+  data:   
 -
   layout: lecture
   selected: y
-  date: 2018-11-18
+  date: 2020-11-18
   img: srn
   uid: lec7
-  title: "Compositional semantics and sentence representations"
-  instructor: "Ekaterina Shutova and Sandro Pezzelle"
+  title: "Live lecture: Compositional semantics and sentence representations"
+  instructor: "Mario Giulianelli"
   note: 
   abstract: >
     "In this lecture, we will discuss compositional semantics, i.e. modelling the meaning of phrases and sentences, and learning neural representations of sentences."
@@ -175,7 +193,25 @@
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
   video: https://webcolleges.uva.nl/Mediasite/Play/2dadec3b16e0443b9090cd70b19595ec1d
   code: 
-  data:    
+  data: 
+-  
+  layout: lecture
+  selected: y
+  date: 2020-11-25
+  img: LiveQA
+  uid: qa2
+  title: "Live Q & A: Semantics"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this Q & A session, we will discuss lexical and distributional semantics."
+  background:
+  discussion:
+  slides: 
+  video: 
+  further:   
+  code: 
+  data:  
 -
   layout: lecture
   selected: y
