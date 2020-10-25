@@ -204,7 +204,7 @@
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-    "In this Q & A session, we will discuss lexical and distributional semantics."
+    "In this Q & A session, we will discuss various aspects of lexical, distributional and compositional semantics."
   background:
   discussion:
   slides: 
@@ -262,7 +262,7 @@
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-    "In this Q & A session, we will discuss modelling discourse and dialogue."
+    "In this Q & A session, we will discuss modelling discourse and summarization."
   background:
   discussion:
   slides: 
@@ -322,7 +322,7 @@
   instructor: "Raquel Fernandez"
   note: 
   abstract: >
-    "In this Q & A session, we will discuss summarization and machine translation."
+    "In this Q & A session, we will discuss dialogue modelling."
   background:
   discussion:
   slides: 
