@@ -25,7 +25,7 @@ Teaching assistants:
 
 ## Course registration
 
-The course is now closed for registration.
+The course registration is now closed.
 
 ## Content
 
