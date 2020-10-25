@@ -2,7 +2,7 @@
   layout: lecture
   selected: y
   date: 2020-10-28
-  img: introduction-icon_1-267x300
+  img: Live
   uid: intro
   title: "Live lecture: Introduction"
   instructor: "Ekaterina Shutova"
@@ -175,7 +175,7 @@
   layout: lecture
   selected: y
   date: 2020-11-18
-  img: srn
+  img: Live
   uid: lec7
   title: "Live lecture: Compositional semantics and sentence representations"
   instructor: "Mario Giulianelli"
