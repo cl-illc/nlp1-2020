@@ -66,9 +66,9 @@ The third edition of the book is currently in preparation and some of the chapte
 
 ## Deadlines
 
-- Practical 1 report: 13 November
-- Practical 2 report: 11 December
-- Exercises: throughout the course (see each excercise sheet for the respective deadline)
+- Practical 1: 13 November
+- Practical 2 & report: 11 December
+- Exercises: 11 November, 18 November, 2 December, 8 December
+<!-- throughout the course (see each excercise sheet for the respective deadline) -->
 - Exam: 18 December
-
 
