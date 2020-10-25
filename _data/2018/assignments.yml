@@ -9,7 +9,7 @@
   abstract: 
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/126UXWFEzfLHd3BwBJYBKgrUhgcYocOTx
+  instructions: https://cl-illc.github.io/nlp1-2020/practicals.html # https://colab.research.google.com/drive/126UXWFEzfLHd3BwBJYBKgrUhgcYocOTx
   data:
   code:
 -
@@ -23,7 +23,7 @@
   abstract: 
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/1NGGXGnX7FbdlJ80GYSX2MwaNMXQ_SW0Z
+  instructions: https://cl-illc.github.io/nlp1-2020/practicals.html # https://colab.research.google.com/drive/1NGGXGnX7FbdlJ80GYSX2MwaNMXQ_SW0Z
   data:
   code:
 -
@@ -37,7 +37,7 @@
   abstract:
   background:
   discussion:
-  instructions: https://colab.research.google.com/drive/16UKIbqdvns3Y7IST2GPFq4eZswQG088V
+  instructions: https://cl-illc.github.io/nlp1-2020/practicals.html # https://colab.research.google.com/drive/16UKIbqdvns3Y7IST2GPFq4eZswQG088V
   data: assessment.html
   code:
 
