@@ -231,48 +231,11 @@
     - "Chapter 23: [Discourse coherence](https://web.stanford.edu/~jurafsky/slp3/23.pdf) in Jurafsky and Martin (3rd edition)." 
   video: 
   code: 
-  data:  
+  data: 
 -
   layout: lecture
   selected: y
   date: Week 5 (released on 2020-11-25)
-  img: dialogue
-  uid: lec9
-  title: "Dialogue modelling"
-  instructor: "Recorded lecture by Raquel Fernandez"
-  note: 
-  abstract: >
-    "In this guest lecture, we will introduce an important NLP application -- dialogue modelling."
-  background:
-  discussion:
-  slides: 
-  further:
-    - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
-  video:
-  code: 
-  data:    
--  
-  layout: lecture
-  selected: y
-  date: 2020-12-02
-  img: LiveQA
-  uid: qa2
-  title: "Live Q & A: Discourse and dialogue"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: >
-    "In this Q & A session, we will discuss modelling discourse and dialogue."
-  background:
-  discussion:
-  slides: 
-  video: 
-  further:   
-  code: 
-  data:  
--
-  layout: lecture
-  selected: y
-  date: Week 6 (released on 2020-12-02)
   img: Summarization 
   uid: lec10
   title: "Language generation and summarisation"
@@ -289,6 +252,43 @@
   video: 
   code: 
   data:  
+-  
+  layout: lecture
+  selected: y
+  date: 2020-12-02
+  img: LiveQA
+  uid: qa2
+  title: "Live Q & A: Modelling discourse and summarization"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this Q & A session, we will discuss modelling discourse and dialogue."
+  background:
+  discussion:
+  slides: 
+  video: 
+  further:   
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: Week 6 (released on 2020-12-02)
+  img: dialogue
+  uid: lec9
+  title: "Dialogue modelling"
+  instructor: "Recorded lecture by Raquel Fernandez"
+  note: 
+  abstract: >
+    "In this guest lecture, we will introduce an important NLP application -- dialogue modelling."
+  background:
+  discussion:
+  slides: 
+  further:
+    - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
+  video:
+  code: 
+  data:    
 -
   layout: lecture
   selected: y
@@ -296,7 +296,7 @@
   img: MT
   uid: lec11
   title: "Machine translation"
-  instructor: "Recorded lecture"
+  instructor: "Recorded lecture by Jasmijn Bastings"
   note: 
   abstract: >
     "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
@@ -318,8 +318,8 @@
   date: 2020-12-09
   img: LiveQA
   uid: qa2
-  title: "Live Q & A: Summarisation and machine translation"
-  instructor: "Ekaterina Shutova"
+  title: "Live Q & A: Dialogue modelling"
+  instructor: "Raquel Fernandez"
   note: 
   abstract: >
     "In this Q & A session, we will discuss summarization and machine translation."
