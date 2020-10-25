@@ -272,8 +272,8 @@
 -
   layout: lecture
   selected: y
-  date: Week 6
-  img: Summarization (released on 2020-12-02)
+  date: Week 6 (released on 2020-12-02)
+  img: Summarization 
   uid: lec10
   title: "Language generation and summarisation"
   instructor: "Recorded lecture"
