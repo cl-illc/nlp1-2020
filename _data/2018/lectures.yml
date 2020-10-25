@@ -58,7 +58,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 2
+  date: Week 2 (released on 2020-11-04)
   img: Morphology
   uid: lec3
   title: "Modelling structure: morphology and syntax"
@@ -78,7 +78,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 2
+  date: Week 2 (released on 2020-11-04)
   img: Parsing
   uid: lec4
   title: "Syntactic parsing"
@@ -115,7 +115,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 3
+  date: Week 3 (released on 2020-11-11)
   img: WordNet
   uid: lec4
   title: "Lexical semantics"
@@ -134,7 +134,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 3
+  date: Week 3 (released on 2020-11-11)
   img: vectors
   uid: lec5
   title: "Distributional semantics"
@@ -153,7 +153,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 3
+  date: Week 3 (released on 2020-11-11)
   img: skip-gram
   uid: lec6
   title: "Generalisation and word embeddings"
@@ -215,7 +215,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 5
+  date: Week 5 (released on 2020-11-25)
   img: Discourse
   uid: lec8
   title: "Discourse processing"
@@ -235,7 +235,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 5
+  date: Week 5 (released on 2020-11-25)
   img: dialogue
   uid: lec9
   title: "Dialogue modelling"
@@ -273,7 +273,7 @@
   layout: lecture
   selected: y
   date: Week 6
-  img: Summarization
+  img: Summarization (released on 2020-12-02)
   uid: lec10
   title: "Language generation and summarisation"
   instructor: "Recorded lecture"
@@ -292,7 +292,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 6
+  date: Week 6 (released on 2020-12-02)
   img: MT
   uid: lec11
   title: "Machine translation"
@@ -333,7 +333,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 7
+  date: Week 7 (released on 2020-12-09)
   img: bayes-nlp
   uid: lec13
   title: "Foundations of Bayesian NLP"
