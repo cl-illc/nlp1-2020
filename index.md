@@ -48,7 +48,7 @@ The lectures will cover the following topics:
 - Bayesian methods in NLP
 
 
-An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews. The hands-on-practical consists of two parts and will be completed in groups of two.
+An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews. The hands-on-practical consists of two parts and will be completed in teams of two. You can find the link to the team registration form on the Canvas home page of this course.
 
 ## Recommended reading
 
