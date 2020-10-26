@@ -48,7 +48,7 @@ The lectures will cover the following topics:
 - Bayesian methods in NLP
 
 
-An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews.
+An important component of the course is a hands-on practical, in which the students will have the opportunity to implement a number of language processing methods and perform experiments on a real-world task: sentiment analysis of movie reviews. The hands-on-practical consists of two parts and will be completed in groups of two.
 
 ## Recommended reading
 
@@ -67,6 +67,6 @@ The third edition of the book is currently in preparation and some of the chapte
 
 - Practical 1: 13 November
 - Practical 2 & report: 11 December
-- Exercises: 11 November, 18 November, 2 December, 8 December <!-- throughout the course (see each excercise sheet for the respective deadline) -->
+- Exercises: 11 November, 20 November, 2 December, 8 December <!-- throughout the course (see each excercise sheet for the respective deadline) -->
 - Exam: 18 December
 
