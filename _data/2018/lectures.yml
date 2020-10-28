@@ -50,7 +50,7 @@
   background:
   discussion:
   slides: 
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/c44f96cb9b18474ab23b66a40691fa641d
   further: 
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
