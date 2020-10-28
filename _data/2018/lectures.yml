@@ -20,7 +20,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 1 (released on 2020-10-29)
+  date: Week 1 (released on 2020-10-28)
   img: PoS
   uid: lec2-1
   title: "Language models"
@@ -30,7 +30,7 @@
     "In this lecture, we will discuss language models, i.e. modelling word sequences."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture2.pdf
   video: https://webcolleges.uva.nl/Mediasite/Play/ed24f15464dc43dcbafdb9e8c0c700d81d
   further: 
     - "Chapter 3: [Language modelling with n-grams](https://web.stanford.edu/~jurafsky/slp3/3.pdf) in Jurafsky and Martin (3rd edition)."
@@ -39,7 +39,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 1 (released on 2020-10-29)
+  date: Week 1 (released on 2020-10-28)
   img: PoS
   uid: lec2-2
   title: "Part-of-speech tagging"
@@ -49,7 +49,7 @@
     "In this lecture, we will discuss part-of-speech tagging, i.e. assigning to each word its grammatical category."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture2.pdf
   video: https://webcolleges.uva.nl/Mediasite/Play/c44f96cb9b18474ab23b66a40691fa641d
   further: 
     - "Chapter 8: [Part-of-speech tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf) in Jurafsky and Martin (3rd edition)."
