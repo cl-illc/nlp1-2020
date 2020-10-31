@@ -44,7 +44,6 @@ The lectures will cover the following topics:
 - Discourse processing 
 - Dialogue modelling 
 - Language generation and summarization
-- Machine translation
 - Bayesian methods in NLP
 
 
