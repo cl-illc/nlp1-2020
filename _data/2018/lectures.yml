@@ -306,52 +306,11 @@
     - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
   video:
   code: 
-  data:    
--
-  layout: lecture
-  selected: y
-  date: Week 6 (released on 2020-12-02)
-  img: MT
-  uid: lec11
-  title: "Machine translation"
-  instructor: "Recorded lecture by Jasmijn Bastings"
-  note: 
-  abstract: >
-    "We will discuss the fundamentals of machine translation, including word-based / alignment models and phrase-based SMT"
-  background:
-  discussion:
-  slides: 
-  further: 
-    - "[Explanation of IBM models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)"
-    - "[Word based IBM models](http://www.aclweb.org/anthology/J93-2003)"
-    - "[Phrase-based SMT](http://www.aclweb.org/anthology/N03-1017) and this [book](http://www.statmt.org/book/)"
-    - "[Neural Encoder-Decoder](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)"
-    - "[The Annotated Encoder-Decoder blog post](https://bastings.github.io/annotated_encoder_decoder/)"
-  video: 
-  code: 
   data:  
--  
-  layout: lecture
-  selected: y
-  date: 2020-12-09
-  img: LiveQA
-  uid: qa2
-  title: "Live Q & A: Dialogue modelling"
-  instructor: "Raquel Fernandez"
-  note: 
-  abstract: >
-    "In this Q & A session, we will discuss dialogue modelling."
-  background:
-  discussion:
-  slides: 
-  video: 
-  further:   
-  code: 
-  data:    
 -
   layout: lecture
   selected: y
-  date: Week 7 (released on 2020-12-09)
+  date: Week 7 (released on 2020-12-02)
   img: bayes-nlp
   uid: lec13
   title: "Foundations of Bayesian NLP"
@@ -371,7 +330,25 @@
       * If you are interested in Bayesian non-parametric methods for NLP, check Sharon Goldwater's [thesis](https://homepages.inf.ed.ac.uk/sgwater/papers/thesis_1spc.pdf), it's remarkably well written and clear!
   video: 
   code: 
-  data:  
+  data:
+-  
+  layout: lecture
+  selected: y
+  date: 2020-12-09
+  img: LiveQA
+  uid: qa2
+  title: "Live Q & A: Dialogue modelling"
+  instructor: "Raquel Fernandez"
+  note: 
+  abstract: >
+    "In this Q & A session, we will discuss dialogue modelling."
+  background:
+  discussion:
+  slides: 
+  video: 
+  further:   
+  code: 
+  data:      
 -  
   layout: lecture
   selected: y
