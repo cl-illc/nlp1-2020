@@ -66,6 +66,6 @@ The third edition of the book is currently in preparation and some of the chapte
 
 - Practical 1: 13 November
 - Practical 2 & report: 11 December
-- Exercises: 11 November, 20 November, 2 December 
+- Exercises: 16 November, 25 November, 4 December 
 - Exam: 18 December
 
