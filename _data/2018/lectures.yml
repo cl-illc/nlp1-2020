@@ -98,7 +98,26 @@
   date: Week 2 (released on 2020-11-04)
   img: Parsing
   uid: lec4
-  title: "Syntax and syntactic parsing"
+  title: "Syntax and formal grammars"
+  instructor: "Recorded lecture"
+  note: 
+  abstract: >
+    "In this lecture, I will introduce syntax and formal grammars."
+  background:
+  discussion:
+  slides: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/60b48ad9886f4e0aa997165b58ed43ff1d
+  further: 
+     - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
+  code: 
+  data:    
+-  
+  layout: lecture
+  selected: y
+  date: Week 2 (released on 2020-11-04)
+  img: Parsing
+  uid: lec4
+  title: "Syntactic parsing"
   instructor: "Recorded lecture"
   note: 
   abstract: >
@@ -108,7 +127,6 @@
   slides: 
   video: 
   further: 
-     - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
      - "Chapter 13: [Constituency parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data:    
