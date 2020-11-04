@@ -79,18 +79,17 @@
   date: Week 2 (released on 2020-11-04)
   img: Morphology
   uid: lec3
-  title: "Modelling structure: morphology and syntax"
+  title: "Morphological processing"
   instructor: "Recorded lecture"
   note: 
   abstract: >
-    "In this lecture, we will discuss morphological processing and syntactic parsing"
+    "In this lecture, we will discuss morphological processing"
   background:
   discussion:
   slides: 
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/4bd1dada1d6143369f90057ae8e6358f1d
   further: 
     - "Lecture notes on moprphology are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
-    - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data: 
 -
@@ -99,7 +98,7 @@
   date: Week 2 (released on 2020-11-04)
   img: Parsing
   uid: lec4
-  title: "Syntactic parsing"
+  title: "Syntax and syntactic parsing"
   instructor: "Recorded lecture"
   note: 
   abstract: >
@@ -109,6 +108,7 @@
   slides: 
   video: 
   further: 
+     - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
      - "Chapter 13: [Constituency parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
   data:    
