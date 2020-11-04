@@ -125,7 +125,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture4.pdf
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/5aafeaacb2944e409b7f1134b086f9dd1d
   further: 
      - "Chapter 13: [Constituency parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
