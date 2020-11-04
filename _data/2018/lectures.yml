@@ -105,7 +105,7 @@
     "In this lecture, I will introduce syntax and formal grammars."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture4.pdf
   video: https://webcolleges.uva.nl/Mediasite/Play/60b48ad9886f4e0aa997165b58ed43ff1d
   further: 
      - "Chapter 12: [Constituency grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf) in Jurafsky and Martin (3rd edition)."
@@ -124,7 +124,7 @@
     "In this lecture, we will discuss syntactic parsing."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture4.pdf
   video: 
   further: 
      - "Chapter 13: [Constituency parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf) in Jurafsky and Martin (3rd edition)."
