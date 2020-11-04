@@ -86,7 +86,7 @@
     "In this lecture, we will discuss morphological processing"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture3.pdf
   video: https://webcolleges.uva.nl/Mediasite/Play/4bd1dada1d6143369f90057ae8e6358f1d
   further: 
     - "Lecture notes on moprphology are available [here](https://cl-illc.github.io/nlp1/resources/slides/Morphology-notes.pdf)"
