@@ -161,8 +161,8 @@
     "In this lecture, we will discuss lexical semantics, i.e. modelling the meaning of words."
   background:
   discussion:
-  slides: 
-  video: 
+  slides: resources/slides/NLP1-lecture4b.pdf
+  video: https://webcolleges.uva.nl/Mediasite/Play/6070333e272f4a989b0cef26a36df74c1d
   further: 
      - "Chapter 19: [Word Senses and WordNet](https://web.stanford.edu/~jurafsky/slp3/19.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
