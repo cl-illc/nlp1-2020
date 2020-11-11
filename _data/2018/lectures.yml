@@ -180,7 +180,7 @@
     "In this lecture, we will introduce statistical models of word meaning"
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture5.pdf
   video: 
   further: 
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
@@ -189,7 +189,7 @@
 -
   layout: lecture
   selected: y
-  date: Week 3 (released on 2020-11-11)
+  date: Week 3 (released on 2020-11-12)
   img: skip-gram
   uid: lec6
   title: "Generalisation and word embeddings"
