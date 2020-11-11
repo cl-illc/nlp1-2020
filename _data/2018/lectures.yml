@@ -181,7 +181,7 @@
   background:
   discussion:
   slides: resources/slides/NLP1-lecture5.pdf
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/be334e63f2d34ba98168a1f025bc37ef1d
   further: 
     - "Chapter 6: [Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) in Jurafsky and Martin (3rd edition)."
   code: 
