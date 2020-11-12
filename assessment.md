@@ -39,11 +39,13 @@ cover the main techniques ("building blocks") used in your project (e.g. word em
 
 General Tips:
 
-- Math notation – define each variable (either in running text, or in a pseudo-legenda after or before the equation)
-- Define technical terminology you need
-- Avoid colloquial language – everything can be said in a scientific-sounding way
-- Avoid lengthy sentences, stay to the point!
-- Do not spend space on "obvious" things!
+- Math notation – define each variable (either in running text, or in a pseudo-legenda after or before the equation).
+- Define technical terminology you need.
+- Avoid colloquial language – everything can be said in a scientific-sounding way.
+- Avoid lengthy sentences, stay to the point.
+- Do not spend space on "obvious" things.
+- Do not go over the page limit. (We will deduct points for that.)
+- The page limit is 4 pages excluding references and appendix. There is no strict limit to references and appendix. However, the report needs to remain fully self-contained: the appendix should only include content that is not necessary to understand your work. For example, preprocessing decisions, model parameters, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of your work can be put into the appendix. However, 
 
 
 An ideal report:
