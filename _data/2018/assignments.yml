@@ -23,7 +23,7 @@
   abstract: 
   background:
   discussion:
-  instructions: https://cl-illc.github.io/nlp1-2020/practicals.html
+  instructions: https://colab.research.google.com/drive/101rgxgNokVMzcjjAp7EkAnbwc3wexd8B?usp=sharing
   data:
   code:
 -
@@ -37,7 +37,7 @@
   abstract:
   background:
   discussion:
-  instructions: https://cl-illc.github.io/nlp1-2020/practicals.html
+  instructions: https://colab.research.google.com/drive/1fA8Q4L3kTtg_HCuIqVuqJ6ZiwN5yyLU1?usp=sharing
   data: assessment.html
   code:
 
