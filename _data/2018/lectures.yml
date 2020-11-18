@@ -227,7 +227,7 @@
     - "A good and general reference for Neural Networks in NLP: Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726)"
     - "A gentle introduction to LSTMs is available [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
     - "This is one of the papers that have introduced tree LSTM models: Kai Sheng Tai, Richard Socher, and Christopher D. Manning. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://aclweb.org/anthology/P/P15/P15-1150.pdf)" 
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/f02a9afa14a04197b9af4a2a65f0ad741d
   code: 
   data: 
 -  
