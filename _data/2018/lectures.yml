@@ -243,7 +243,7 @@
     "In this Q & A session, we will discuss various aspects of lexical, distributional and compositional semantics."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-LiveQA3.pdf
   video: 
   further:   
   code: 
