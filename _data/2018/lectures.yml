@@ -321,7 +321,7 @@
     "In this Q & A session, we will discuss modelling discourse and summarization."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-LiveQA4.pdf
   video: 
   further:   
   code: 
