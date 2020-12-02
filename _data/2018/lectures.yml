@@ -344,7 +344,25 @@
     - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
   video: https://webcolleges.uva.nl/Mediasite/Play/e4bf96da1a934346a2c2756d03d672741d
   code: 
-  data:  
+  data: 
+-
+  layout: lecture
+  selected: y
+  date: Week 6 (released on 2020-12-02)
+  img: Twitter
+  uid: lec12
+  title: "NLP and social media analysis"
+  instructor: "Recorded lecture by Reshmi Gopalakrishna Pillai"
+  note: 
+  abstract: >
+    "We will discuss the applications of NLP in the area of social media analysis and the challenges associated with processing the language of social media."
+  background:
+  discussion:
+  slides: resources/slides/NLP1-lecture12.pdf
+  further: 
+  video: 
+  code: 
+  data:   
 -
   layout: lecture
   selected: y
