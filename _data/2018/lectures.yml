@@ -339,10 +339,10 @@
     "In this guest lecture, we will introduce an important NLP application -- dialogue modelling."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture-dialogue.pdf
   further:
     - "Chapter 26: [Dialogue systems and chatbots](https://web.stanford.edu/~jurafsky/slp3/26.pdf) in Jurafsky and Martin (3rd edition)."
-  video:
+  video: https://webcolleges.uva.nl/Mediasite/Play/e4bf96da1a934346a2c2756d03d672741d
   code: 
   data:  
 -
