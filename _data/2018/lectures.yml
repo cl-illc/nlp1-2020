@@ -384,7 +384,7 @@
       * The classict of all times: [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
         * This paper focusses on a different type of approximate inference technique (not MCMC, but rather variational inference), in ML4NLP we cover it in great detail (in particular, this is the class of algorithms we use to do probabilistic modelling with neural networks)
       * If you are interested in Bayesian non-parametric methods for NLP, check Sharon Goldwater's [thesis](https://homepages.inf.ed.ac.uk/sgwater/papers/thesis_1spc.pdf), it's remarkably well written and clear!
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/5ee727cc84ac4ea4a6117052410151aa1d
   code: 
   data:
 -  
