@@ -313,7 +313,7 @@
   selected: y
   date: 2020-12-02
   img: LiveQA
-  uid: qa2
+  uid: qa4
   title: "Live Q & A: Modelling discourse and summarization"
   instructor: "Ekaterina Shutova"
   note: 
@@ -392,9 +392,9 @@
   selected: y
   date: 2020-12-09
   img: LiveQA
-  uid: qa2
-  title: "Live Q & A: Dialogue modelling"
-  instructor: "Raquel Fernandez"
+  uid: qa5
+  title: "Live Q & A: Dialogue modelling (1pm) and NLP & Social media (2pm)"
+  instructor: "Raquel Fernandez and Reshmi G. Pillai"
   note: 
   abstract: >
     "In this Q & A session, we will discuss dialogue modelling."
@@ -410,8 +410,8 @@
   selected: y
   date: 2020-12-11
   img: LiveQA
-  uid: qa2
-  title: "Live Q & A: Bayesian NLP"
+  uid: qa6
+  title: "Live Q & A: Bayesian NLP (1pm)"
   instructor: "Wilker Aziz"
   note: 
   abstract: >
@@ -423,3 +423,21 @@
   further:   
   code: 
   data:
+-
+  layout: lecture
+  selected: y
+  date: 2020-12-11
+  img: Live-1
+  uid: lec-final
+  title: "Live lecture: Summary of the course (2pm)"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this mini-lecture, we will give you a brief summary of the course and how different areas we have studied interface."
+  background:
+  discussion:
+  slides: 
+  further:
+  video: 
+  code: 
+  data:   
