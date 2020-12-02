@@ -360,7 +360,7 @@
   discussion:
   slides: resources/slides/NLP1-lecture12.pdf
   further: 
-  video: 
+  video: https://webcolleges.uva.nl/Mediasite/Play/ee92c5a252384f91b4b1662bbbc724db1d
   code: 
   data:   
 -
@@ -376,7 +376,7 @@
       In this lecture, we will discuss the differences between frequentism and Bayesian modelling. We will discuss the concept of a prior and Bayesian inference. The model we will use to illustrate concepts is the Dirichlet-Multinomial model, the base for models such as Bayesian mixture models, HMM, and LDA. For approximate inference, we will discuss MCMC and in particular Gibbs sampling.
   background:
   discussion:
-  slides: 
+  slides: resources/slides/NLP1-lecture13.pdf
   further: |
       * For a POS tagging model: [A Fully Bayesian Approach to Unsupervised Part-of-Speech Tagging](http://aclweb.org/anthology/P07-1094) 
       * For a PCFG model: [Bayesian Inference for PCFGs via Markov chain Monte Carlo](http://aclweb.org/anthology/N07-1018)
